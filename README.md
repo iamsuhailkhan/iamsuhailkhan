@@ -1,3 +1,3 @@
--  Hi, I’m @iamsuhailkhan
--  I am a B.tech CSE student
+Hello Everypne I am suhail khan
+I am a Fullstack web developer | MERN Stack
   
